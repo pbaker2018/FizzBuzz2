@@ -2,7 +2,10 @@
 
 ## What does it do?
 This was a Makers 'PreCourse' challenge - to pair with another member of the cohort over TDD and FizzBuzz.
-The Task was to write a program for FizzBuzz, and then write our first ever RSpec tests to check that our program works.
+The Task was to write a function for FizzBuzz, and then write our first ever RSpec tests to check that our program works.
+
+## What is FizzBuzz?
+FizzBuzz is a function that allows the user to pass in an integer, and if the integer is divisible by 3 it will return 'fizz'. If the integer is divisible by 5 it will return 'buzz.' Lastly, if the integer is divisible by both 3 and 5 and it will return 'fizzbuzz.'
 
 
 ## Motivation
