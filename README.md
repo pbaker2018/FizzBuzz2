@@ -5,11 +5,11 @@ This was a Makers 'PreCourse' challenge - to pair with another member of the coh
 The Task was to write a function for FizzBuzz, and then write our first ever RSpec tests to check that our program works.
 
 ## What is FizzBuzz?
-FizzBuzz is a function that allows the user to pass in an integer, and if the integer is divisible by 3 it will return 'fizz'. If the integer is divisible by 5 it will return 'buzz.' Lastly, if the integer is divisible by both 3 and 5 and it will return 'fizzbuzz.'
+FizzBuzz is a function that allows the user to pass in an integer, and if the integer is divisible by 3 it will return 'fizz'. If the integer is divisible by 5 it will return 'buzz.' Lastly, if the integer is divisible by both 3 and 5 it will return 'fizzbuzz.'
 
 
 ## Motivation
-To enable us to learn how to write a basic RSpec test, and to get used to 'collaborating' with a pair-partner over github, by doing a 'commit' and 'pushing' our work to github, thus allowing our 'collaborator' to 'pull' our latest update and then add his own 'commit'.
+The goal of this challenge was for us to learn how to write a basic RSpec test, and to get used to 'collaborating' with a pair-partner over github, by sharing the workload (sometimes driving, sometimes navigating), doing a 'commit' and 'pushing' our work to github, thus allowing our 'collaborator' to 'pull' our latest update and then add his own 'commit'.
 A good introduction to pairing and TDD.
 
 
