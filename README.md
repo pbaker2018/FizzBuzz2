@@ -1,7 +1,7 @@
 # Pairing over FizzBuzz
 
 ## What does it do?
-This was a Makers 'PreCourse' challenge - to pair with another member of the cohort over TDD and FizzBuzz.
+This was a Makers 'PreCourse' challenge - to pair with someone else over TDD and FizzBuzz.
 The Task was to write a function for FizzBuzz, and then write our first ever RSpec tests to check that our program works.
 
 ## What is FizzBuzz?
